@@ -1,2 +1,2 @@
 # algolist
-Here are some algorithms written in c or c++
+Here are some algorithms and data structures written in c or c++
